@@ -1,19 +1,10 @@
 # todolist
 
-## Project setup
-```
-npm install
-```
+## CRUD 기능
+<img src="./src/assets/CRUD 기능.PNG"/>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 검색 기능
+<img src="./src/assets/검색 기능.PNG"/>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 메뉴 제작
+<img src="./src/assets/메뉴 제작.PNG"/>
